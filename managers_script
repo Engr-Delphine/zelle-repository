@@ -1,0 +1,17 @@
+#!/bin/bash
+# This script is about variables in Linux.
+name="Delphine Takere"
+profession='DevOps Engineer'
+company='Landmark Technologies'
+salary='20,000 USD'
+x=70
+y=7
+echo "My name is $name"
+echo "I am a $profession"
+echo "I work at $company in Barie Canada"
+echo "I have two jobs at $company"
+echo "I earn $salary" a month as a $profession
+echo "x is equal to $x"
+echo "y is equal to $y"
+whoami
+date
